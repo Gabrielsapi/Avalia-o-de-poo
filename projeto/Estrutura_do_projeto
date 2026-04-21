@@ -1,0 +1,17 @@
+banco/
+│
+├── clientes/
+│   └── cliente.py
+│
+├── contas/
+│   ├── conta.py
+│   ├── conta_corrente.py
+│   └── conta_poupanca.py
+│
+├── operacoes/
+│   └── historico.py
+│
+├── sistema/
+│   └── banco.py
+│
+└── main.py
