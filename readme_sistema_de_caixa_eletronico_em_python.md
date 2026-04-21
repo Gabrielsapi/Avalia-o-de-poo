@@ -174,18 +174,4 @@ Saldo atual: R$100.00
 - Uso de tipagem
 - Tratamento de exceções
 
----
-
-## Possíveis Melhorias Futuras
-
-- Persistência de dados (arquivo ou banco de dados)
-- Interface gráfica
-- Sistema de autenticação
-- Transferência entre contas
-
----
-
-## Autor
-
-Projeto desenvolvido para fins acadêmicos na disciplina de Programação Orientada a Objetos.
 
